@@ -1,0 +1,40 @@
+{
+  "build_id": "7a6f8f6de9a337b55f29f6019c9f5a9ffb117e62",
+  "files": {
+    "main.js": [
+      "chunk-3IU5FH7P.js",
+      "chunk-FEDUQ665.js"
+    ],
+    "deserializer.js": [],
+    "signals.js": [
+      "chunk-PJZBHZST.js",
+      "chunk-BD7VNOS4.js",
+      "chunk-FEDUQ665.js"
+    ],
+    "island-countdown.js": [
+      "chunk-PJZBHZST.js",
+      "chunk-SFU5YHSS.js",
+      "chunk-BD7VNOS4.js",
+      "chunk-FEDUQ665.js"
+    ],
+    "chunk-PJZBHZST.js": [
+      "chunk-BD7VNOS4.js",
+      "chunk-FEDUQ665.js"
+    ],
+    "island-counter.js": [
+      "chunk-3IU5FH7P.js",
+      "chunk-SFU5YHSS.js",
+      "chunk-BD7VNOS4.js",
+      "chunk-FEDUQ665.js"
+    ],
+    "chunk-3IU5FH7P.js": [],
+    "chunk-SFU5YHSS.js": [
+      "chunk-FEDUQ665.js"
+    ],
+    "chunk-BD7VNOS4.js": [
+      "chunk-FEDUQ665.js"
+    ],
+    "chunk-FEDUQ665.js": [],
+    "metafile.json": []
+  }
+}
